@@ -18,4 +18,4 @@ Este proyecto no usa Maven actualmente. Para ejecutarlo:
 3. Asegúrate de que `module-info.java` tenga el `requires org.slf4j;`.
 
 ## 📊 Diagrama UML
-![Diagrama de Clases](./img/arquitectura_hexagonal.png)
+![Diagrama de Clases](./src/img/arquitectura_hexagonal.png)
