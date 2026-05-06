@@ -19,3 +19,10 @@ Este proyecto no usa Maven actualmente. Para ejecutarlo:
 
 ## 📊 Diagrama UML
 ![Diagrama de Clases](./src/img/arquitectura_hexagonal.png)
+
+---
+
+### 📈 Próximas Mejoras (Roadmap)
+- [ ] Migrar a **Maven** o **Gradle** para gestión de dependencias.
+- [ ] Implementar **Spring Boot 3** para la capa de Adaptadores Web.
+- [ ] Añadir pruebas unitarias con **JUnit 5** y **Mockito**.
