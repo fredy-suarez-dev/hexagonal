@@ -22,6 +22,11 @@ Este proyecto no usa Maven actualmente. Para ejecutarlo:
 
 ---
 
+### 🖥️ Vista Previa de la Ejecución
+![Ejecución del Sistema](src/img/ejecución_hexagonal.png)
+
+---
+
 ### 📈 Próximas Mejoras (Roadmap)
 - [ ] Migrar a **Maven** o **Gradle** para gestión de dependencias.
 - [ ] Implementar **Spring Boot 3** para la capa de Adaptadores Web.
